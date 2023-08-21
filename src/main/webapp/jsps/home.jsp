@@ -15,6 +15,8 @@
         <h2 align="center" >Henceforth, I will recongnize that each day I am tested by life in like manner. If I persist, if I continue to charge forward, I will succeed.</h2>
 	<h2 align="center" >Taken from "The Greatest salesman in the world by OG Mandino</h2>
 	<h2 align="center" >Visit https://473tech.com. Production</h2>
+	<h2 align="center" >We are billionaires</h2>
+
 
 <hr>
 <div style="text-align: center;">
