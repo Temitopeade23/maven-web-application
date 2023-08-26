@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>473tech Releases Nexus Repository</name>
-	      <url>http://54.173.102.181:8081/repository/demo-releases/</url> 
+	      <url>http://http://50.18.81.75:8081/repository/demo-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>473tech Snapshot Nexus Repository </name>
-	      <url>http://54.173.102.181:8081/repository/demo-snapshots/</url>
+	      <url>http://50.18.81.75:8081/repository/demo-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
